@@ -9,7 +9,7 @@ This project adds a PvP (Player vs Player) system to a FiveM server using the QB
 - **Weapon Distribution:** Players receive pre-configured weapons when entering the arena.
 - **Queue System:** Manages multiple players entering the arena.
 - **Customizable Settings:** Configure NPC location, arena, items, and messages.
-
+- **NEED PUT YOUR OWN MAP and CONFIG IT on config.lua**
 ### Requirements
 - FiveM server with QBCore installed.
 - ox_target for NPC interactions.
@@ -53,7 +53,7 @@ Este projeto adiciona um sistema de PvP (Player vs Player) a um servidor FiveM u
 - **Distribuição de Armas:** Os jogadores recebem armas configuradas ao entrar na arena.
 - **Sistema de Fila:** Gerencia múltiplos jogadores entrando na arena.
 - **Configurações Personalizáveis:** Permite configurar localização do NPC, arena, itens e mensagens.
-
+- **PRECISA CONFIGURAR SEU PROPRIO MAPA NO CONFIG.LUA**
 ### Requisitos
 - Servidor FiveM com QBCore instalado.
 - ox_target para interação com NPCs.
