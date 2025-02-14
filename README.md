@@ -1,5 +1,3 @@
-Claro! Aqui está um README estilizado para o GitHub em duas línguas, PT-BR e EN-US, para o projeto QBxCore PvP Script.
-
 ## 🇺🇸 English
 
 ### Description
@@ -87,5 +85,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para rela
 
 ### Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
-Pronto! Esse README.md está detalhado e pronto para uso no repositório. Caso queira ajustes ou mais informações, é só avisar! 🚀
